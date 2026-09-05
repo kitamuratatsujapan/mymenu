@@ -1,0 +1,9 @@
+id,料理名ch,カテゴリー,材料ch,説明ch,料理名jp,材料jp,説明jp,料理名en,材料en,説明en,写真ファイル名,ソート順,,,
+1,凉拌黄瓜,凉菜,黄瓜、蒜、香醋、香油,清爽脆嫩的凉拌黄瓜，酸香开胃。,きゅうりの中華風和え,きゅうり、にんにく、黒酢、ごま油,シャキッとしたきゅうりを黒酢とごま油で和えた、さっぱりとした一品。,Chinese Cucumber Salad,cucumber, garlic, black vinegar, sesame oil,Fresh and crisp cucumber salad with a delicate tang.,cucumber.jpg,1
+2,麻婆豆腐,热菜-其他,豆腐、猪肉末、豆瓣酱、花椒,麻辣鲜香，豆腐细嫩入味。,麻婆豆腐,豆腐、豚ひき肉、豆板醤、花椒,花椒の香りと辛味を効かせた、定番の麻婆豆腐。,Mapo Tofu,tofu, minced pork, chili bean paste, Sichuan pepper,Silky tofu with savory heat and aromatic Sichuan pepper.,mapo-tofu.jpg,2
+3,青椒炒牛肉,热菜-牛肉,牛肉、青椒、葱、酱油,牛肉嫩滑，青椒爽脆，香气浓郁。,牛肉とピーマンの炒め,牛肉、ピーマン、ねぎ、醤油,柔らかな牛肉とピーマンを香ばしく炒めた一皿。,Stir-fried Beef with Green Pepper,beef, green pepper, scallion, soy sauce,Tender beef stir-fried with crisp green peppers.,beef-green-pepper.jpg,3
+4,宫保鸡丁,热菜-鸡肉,鸡肉、花生、干辣椒、葱,咸甜微辣，花生酥香。,宮保鶏丁,鶏肉、ピーナッツ、唐辛子、ねぎ,甘辛い味付けにピーナッツの香ばしさを合わせた人気料理。,Kung Pao Chicken,chicken, peanuts, dried chili, scallion,Savory and lightly spicy chicken with crunchy peanuts.,kung-pao-chicken.jpg,4
+5,蒜蓉西兰花,热菜-素,西兰花、蒜、盐、橄榄油,蒜香清新，口感爽脆。,ブロッコリーのガーリック炒め,ブロッコリー、にんにく、塩、オリーブオイル,にんにくの香りをまとわせた、軽やかな野菜料理。,Garlic Broccoli,broccoli, garlic, salt, olive oil,Lightly sautéed broccoli with fragrant garlic.,garlic-broccoli.jpg,5
+6,海鲜豆腐汤,汤,虾、白身鱼、豆腐、葱,鲜味浓郁，汤底清爽。,海鮮と豆腐のスープ,えび、白身魚、豆腐、ねぎ,海鮮の旨味を引き出した、すっきりとした味わいのスープ。,Seafood Tofu Soup,shrimp, white fish, tofu, scallion,Light and savory soup with seafood and silky tofu.,seafood-tofu-soup.jpg,6
+7,羊肉孜然炒,热菜-羊肉,羊肉、孜然、洋葱、香菜,孜然香气浓郁，羊肉鲜嫩。,クミン風味のラム肉炒め,ラム肉、クミン、玉ねぎ、香菜,クミンの香りを効かせた、香ばしいラム肉の炒め物。,Cumin Lamb Stir-fry,lamb, cumin, onion, cilantro,Fragrant cumin lamb with tender meat and aromatic herbs.,cumin-lamb.jpg,7
+8,葱油拌面,主食,面条、葱、酱油、香油,葱香浓郁，简单却耐吃。,ねぎ油まぜ麺,麺、ねぎ、醤油、ごま油,香味豊かなねぎ油を絡めた、シンプルで味わい深い麺料理。,Scallion Oil Noodles,noodles, scallion, soy sauce, sesame oil,Simple noodles tossed in fragrant scallion oil.,scallion-noodles.jpg,8
